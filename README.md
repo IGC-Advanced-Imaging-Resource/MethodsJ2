@@ -5,7 +5,7 @@ Reference: Ryan, J., Pengo, T., Rigano, A. et al. MethodsJ2: a software tool to 
 
 Note we are currently in the process of implementing/testing this tool, so not all AIR microscopes are available yet. If you cannot find a .json file for a particular microscope and would like to use MethodsJ2, please email AIR-support@igc.ed.ac.uk. You can still find technical information regarding all our systems at https://igmmimaging.com/equipment/tech-specs/
 
-INSTRUCTIONS
+# Before you start
 
 
 Before you start you will need the following: 
@@ -17,6 +17,7 @@ Before you start you will need the following:
 
 •	An example image in its raw format
 
+# Instructions
 
 Step 1: 
 Download the MethodsJ2 script (MethodsJ2_v1_2_.py), this can be found at https://github.com/ABIF-McGill/MethodsJ2
