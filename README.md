@@ -1,6 +1,10 @@
 # MethodsJ2
 MethodsJ2 is a tool which can be used to automatically generate materials &amp; methods text for image data captured on AIR microscopes
 
+Reference: Ryan, J., Pengo, T., Rigano, A. et al. MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text. Nat Methods 18, 1414–1416 (2021). https://doi.org/10.1038/s41592-021-01290-5 
+
+https://doi.org/10.1038/s41592-021-01290-5
+
 Note we are currently in the process of implementing/testing this tool, so not all AIR microscopes are available yet. If you cannot find a .json file for a particular microscope and would like to use MethodsJ2, please email AIR-support@igc.ed.ac.uk. You can still find technical information regarding all our systems at https://igmmimaging.com/equipment/tech-specs/
 
 INSTRUCTIONS
