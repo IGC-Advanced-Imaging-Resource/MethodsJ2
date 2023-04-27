@@ -3,6 +3,9 @@ MethodsJ2 is a tool which can be used to automatically generate materials &amp; 
 
 Note we are currently in the process of implementing and testing this tool, so not all AIR microscopes are available yet. If you cannot find a .json file for a particular microscope and would like to use MethodsJ2, please email AIR-support@igc.ed.ac.uk. You can still find technical information regarding all our systems at https://igmmimaging.com/equipment/tech-specs/
 
+INSTRUCTIONS
+
+
 Before you start: you will the following: 
 •	ImageJ/FIJI https://imagej.net/software/fiji/downloads
 
