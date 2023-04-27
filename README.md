@@ -6,7 +6,7 @@ Note we are currently in the process of implementing/testing this tool, so not a
 INSTRUCTIONS
 
 
-Before you start: you will need the following: 
+Before you start you will need the following: 
 •	ImageJ/FIJI https://imagej.net/software/fiji/downloads
 
 •	MethodsJ2 script (MethodsJ2_v1_2_.py; found at https://github.com/ABIF-McGill/MethodsJ2
